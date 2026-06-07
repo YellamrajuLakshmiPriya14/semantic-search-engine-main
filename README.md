@@ -551,16 +551,3 @@ Possible improvements:
 
 ---
 
-## Short Interview Explanation
-
-You can explain this project like this:
-
-```text
-I built a semantic search engine that searches customer support text based on meaning instead of exact keyword matching. I used Sentence Transformers to convert text into embeddings, FAISS for fast vector similarity search, DuckDB for lightweight data storage, and FastAPI to expose the search functionality as an API.
-```
-
----
-
-## License
-
-This project is for learning and educational purposes.
