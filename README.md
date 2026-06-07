@@ -104,10 +104,10 @@ semantic-search-engine-main/
 ├── README.md
 │
 ├── data/
-│   ├── twcs.csv
+│   ├── twcs.csv ( Not able to upload as it is bigger in size )
 │   ├── embeddings.npy
 │   ├── faiss.index
-│   └── support.duckdb
+│   └── support.duckdb ( Not able to upload as it is bigger in size )
 │
 └── __pycache__/
 ```
